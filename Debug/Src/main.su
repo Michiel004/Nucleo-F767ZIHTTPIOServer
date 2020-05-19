@@ -1,0 +1,14 @@
+main.c:107:5:main	200	static
+main.c:244:6:SystemClock_Config	232	static
+main.c:304:13:MX_ADC1_Init	24	static
+main.c:354:13:MX_TIM3_Init	88	static
+main.c:443:13:MX_TIM4_Init	40	static
+main.c:493:13:MX_USART3_UART_Init	8	static
+main.c:528:13:MX_USB_OTG_FS_PCD_Init	8	static
+main.c:563:13:MX_GPIO_Init	56	static
+main.c:637:6:StartDefaultTask	16	static
+main.c:660:6:StartmyTask8IO	16	static
+main.c:711:6:StartTaskLED	16	static
+main.c:804:6:StartTaskInput	16	static
+main.c:832:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:849:6:Error_Handler	4	static
